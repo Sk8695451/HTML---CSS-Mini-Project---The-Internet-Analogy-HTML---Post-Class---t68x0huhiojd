@@ -1,1 +1,21 @@
-
+.firstimage{
+    width: 1330px;
+    height: 230px;
+}
+.head{
+    text-align: center;
+}
+#button1{
+    background-color: green;
+    border-radius: 2px;
+    border-color: black;
+}
+.SecondImage{
+    text-align: center;
+}
+.ThirdImage{
+    text-align: center;
+}
+.forfooter{
+    text-align: center;
+}
