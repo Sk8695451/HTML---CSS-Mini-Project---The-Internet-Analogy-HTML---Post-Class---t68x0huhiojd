@@ -1,21 +1,59 @@
+#heading1{
+    color: #FFA500;
+}
+#heading{
+    color: blue;
+}
+#heading2{
+    color: #FFA500;
+}
+#heading3{
+    color: #FFA500;
+}
+#heading4{
+    color: #FFA500;
+}
+.footer2{
+    color: green;
+}
 .firstimage{
+    border-radius: 15px;
     width: 1330px;
     height: 230px;
 }
 .head{
     text-align: center;
 }
+.firstp{
+    color: green;
+}
 #button1{
+    color:yellow;
+    padding:10px;
     background-color: green;
-    border-radius: 2px;
+    border-radius: 8px;
     border-color: black;
 }
 .SecondImage{
     text-align: center;
 }
 .ThirdImage{
+    border-radius: 15px;
     text-align: center;
 }
 .forfooter{
+    background-color: antiquewhite;
+    color:#FFA500;
     text-align: center;
 }
+.secondBirds{
+    border-radius: 15px;
+}
+.fourimage{
+    border-radius: 15px;
+}
+#thirdimage{
+    border-radius: 15px;
+}
+ 
+ 
